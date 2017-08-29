@@ -1,4 +1,4 @@
-# Add Dependencies
+## Add Dependencies
 
 ```
 dependencies {
@@ -6,9 +6,9 @@ dependencies {
 }
 ```
 
-# Usage
+## Usage
 
-```
+```java
 ArrayList<String> choices = new ArrayList<>();
 choices.add("Choice 1");
 choices.add("Choice 2");
