@@ -1,8 +1,12 @@
+## First glance
+
+![showcase](/showcase.gif)
+
 ## Add Dependencies
 
 ```
 dependencies {
-  compile 'cn.robotbros:library:1.0.0'
+    compile 'cn.robotbros:library:1.0.0'
 }
 ```
 
