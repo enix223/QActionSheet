@@ -5,8 +5,15 @@
 ## Add Dependencies
 
 ```
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
+
 dependencies {
-    compile 'cn.robotbros:library:1.0.0'
+    implementation 'com.github.enix223:QActionSheet:1.0.0'
 }
 ```
 
